@@ -18,3 +18,9 @@ In this project we are creating
 by using Terraform and utilizing for_each.
 
 We are also outputing important values of these resources.
+
+Used resources in Terraform:
+- Resource groups
+- for_each
+- VNet
+- Subnets
